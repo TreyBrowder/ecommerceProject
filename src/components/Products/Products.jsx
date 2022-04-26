@@ -3,7 +3,7 @@ import Product from './Product/Product'
 import React from 'react';
 
 const products = [
-    {id: 1, name: 'Shoes', description: 'Running shoes', price: '$5', image: 'https://lh3.googleusercontent.com/-kfptSZIKctA/YVMkBifRLNI/AAAAAAACPJ4/dcKSTTAz6GohZFRr1rQwj_akt1CmCElkgCNcBGAsYHQ/w547-h410/IMG_2396.jpg},
+    {id: 1, name: 'Shoes', description: 'Running shoes', price: '$5', image: 'https://lh3.googleusercontent.com/-kfptSZIKctA/YVMkBifRLNI/AAAAAAACPJ4/dcKSTTAz6GohZFRr1rQwj_akt1CmCElkgCNcBGAsYHQ/w547-h410/IMG_2396.jpg'},
     {id: 2, name: 'MacBook', description: 'Apple MacBook Computer', price: '$10', image: 'https://photos5.appleinsider.com/gallery/26909-39215-macbook-pro-13-inch-touch-bar-review00017-xl.jpg'},
 ];
 
